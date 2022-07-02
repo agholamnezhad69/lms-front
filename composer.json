@@ -1,5 +1,5 @@
 {
-    "name": "ali/front",
+    "name": "agholamnezhad69/front",
     "autoload": {
         "psr-4": {
             "ali\\Front\\" : "src"
